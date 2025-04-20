@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 def kaprekar_steps(n):
     steps = []
     while True:
